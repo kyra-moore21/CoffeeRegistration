@@ -1,0 +1,30 @@
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\bin\Debug\net8.0\appsettings.json
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\bin\Debug\net8.0\Coffee Registration.staticwebassets.runtime.json
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\bin\Debug\net8.0\Coffee Registration.exe
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\bin\Debug\net8.0\Coffee Registration.deps.json
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\bin\Debug\net8.0\Coffee Registration.runtimeconfig.json
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\bin\Debug\net8.0\Coffee Registration.dll
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\bin\Debug\net8.0\Coffee Registration.pdb
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.AssemblyInfoInputs.cache
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.AssemblyInfo.cs
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.csproj.CoreCompileInputs.cache
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.RazorAssemblyInfo.cache
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.RazorAssemblyInfo.cs
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\staticwebassets\msbuild.Coffee Registration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\staticwebassets\msbuild.build.Coffee Registration.props
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Coffee Registration.props
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Coffee Registration.props
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\scopedcss\bundle\Coffee Registration.styles.css
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\scopedcss\projectbundle\Coffee Registration.bundle.scp.css
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.dll
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\refint\Coffee Registration.dll
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.pdb
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.genruntimeconfig.cache
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\ref\Coffee Registration.dll
