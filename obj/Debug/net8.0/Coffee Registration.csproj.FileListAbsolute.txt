@@ -28,3 +28,4 @@ C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\ne
 C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.pdb
 C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.genruntimeconfig.cache
 C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\ref\Coffee Registration.dll
+C:\Users\kyram\source\repos\Coffee Registration\Coffee Registration\obj\Debug\net8.0\Coffee Registration.sourcelink.json
